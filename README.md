@@ -9,7 +9,7 @@ broadscale animal motions from archival or satellite tag data.
 The package is easily installed from GitHub, using the devtools package. 
 
 ```R
-devtools::install_github("SWotherspoon/SGAT")
+devtools::install_github("ABindoff/SGAT")
 ```
 
 If you don't have `devtools` installed already, install it first. 
